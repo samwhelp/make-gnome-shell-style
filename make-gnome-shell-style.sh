@@ -11,8 +11,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/make-gnome-shell-layout-wincity/blob/main/part/make-gnome-shell-style/make-gnome-shell-style.sh
-## * https://raw.githubusercontent.com/samwhelp/make-gnome-shell-layout-wincity/refs/heads/main/part/make-gnome-shell-style/make-gnome-shell-style.sh
+## * https://github.com/samwhelp/make-gnome-shell-style/blob/main/make-gnome-shell-style.sh
+## * https://raw.githubusercontent.com/samwhelp/make-gnome-shell-style/refs/heads/main/make-gnome-shell-style.sh
 ##
 
 
