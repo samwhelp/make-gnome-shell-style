@@ -965,6 +965,8 @@ sys_style_asset_install_for_vimix () {
 
 	sys_theme_install_citrus_icon_theme
 
+	sys_theme_install_canta_icon_theme
+
 	sys_theme_install_greystone_icon_theme
 
 	sys_theme_install_questx_icon_theme
@@ -1400,6 +1402,8 @@ sys_style_asset_install_for_graphite () {
 
 	sys_theme_install_citrus_icon_theme
 
+	sys_theme_install_canta_icon_theme
+
 	sys_theme_install_greystone_icon_theme
 
 	sys_theme_install_questx_icon_theme
@@ -1643,6 +1647,8 @@ sys_style_asset_install_for_orchis () {
 
 	sys_theme_install_citrus_icon_theme
 
+	sys_theme_install_canta_icon_theme
+
 	sys_theme_install_greystone_icon_theme
 
 	sys_theme_install_questx_icon_theme
@@ -1742,9 +1748,9 @@ sys_style_asset_install_for_layan () {
 
 	sys_theme_install_vimix_cursor_theme
 
-	sys_theme_install_canta_icon_theme
-
 	sys_theme_install_citrus_icon_theme
+
+	sys_theme_install_canta_icon_theme
 
 	sys_theme_install_greystone_icon_theme
 
@@ -1847,6 +1853,8 @@ sys_style_asset_install_for_lavanda () {
 
 	sys_theme_install_citrus_icon_theme
 
+	sys_theme_install_canta_icon_theme
+
 	sys_theme_install_greystone_icon_theme
 
 	sys_theme_install_questx_icon_theme
@@ -1947,6 +1955,8 @@ sys_style_asset_install_for_qogir () {
 	sys_theme_install_vimix_cursor_theme
 
 	sys_theme_install_citrus_icon_theme
+
+	sys_theme_install_canta_icon_theme
 
 	sys_theme_install_greystone_icon_theme
 
